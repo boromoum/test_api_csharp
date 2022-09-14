@@ -25,3 +25,4 @@
 /Users/boromoum/Desktop/TestApi/TestApi/obj/Debug/net6.0/TestApi.pdb
 /Users/boromoum/Desktop/TestApi/TestApi/obj/Debug/net6.0/TestApi.genruntimeconfig.cache
 /Users/boromoum/Desktop/TestApi/TestApi/obj/Debug/net6.0/ref/TestApi.dll
+/Users/boromoum/Desktop/TestApi/TestApi/bin/Debug/net6.0/Newtonsoft.Json.dll
