@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyMea6tVaUk5YgFjVQTgFc4Vz0TgQrKFqnRrhnGCgzSSfi/uzofNd57w5HhPaMf9o73GIWxMWV05nuNVzKkp2Q==",
+  "success": true,
+  "projectFilePath": "/Users/boromoum/Desktop/TestApi/TestApi/TestApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/boromoum/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/boromoum/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/boromoum/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/boromoum/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/boromoum/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/boromoum/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
